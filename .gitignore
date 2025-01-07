@@ -1,0 +1,9 @@
+#cargo build artifacts 
+**/target/
+
+#cargo debug artifacts
+**/*.rs.bk
+
+#cargo .lock file 
+
+**/Cargo.lock
